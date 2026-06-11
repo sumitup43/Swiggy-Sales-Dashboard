@@ -40,3 +40,11 @@ This excel dashboard provides a comprehensive analysis of Swiggy sales performan
 
 ### City Performance
 ✔ Top 5 Cities by Sales Revenue
+
+## Key Insights
+
+- Maharashtra generated the highest sales among all states.
+- Non-Vegetarian food contributed more revenue than Vegetarian food.
+- Sales peaked during specific months, indicating seasonal demand patterns.
+- Bengaluru, Hyderabad, and Mumbai were among the top-performing cities by sales.
+- Customer ratings remained consistently high, with an average rating of 4.34.
